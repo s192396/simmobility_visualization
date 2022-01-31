@@ -5,4 +5,4 @@ Notebooks and configuration files were created in the course of a master thesis 
 
 Documentation and installation of Kepler GL for Jupyter: https://docs.kepler.gl/docs/keplergl-jupyter  
 User guide Kepler GL: https://docs.kepler.gl/docs/user-guides    
-It is recommended to use Kepler GL for Jupyter in a Jupyter Notebook, not in Jupyter Lab.
+It is recommended to use Kepler GL for Jupyter in Jupyter Notebook, not in Jupyter Lab.
