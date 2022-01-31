@@ -9,5 +9,4 @@ Notebooks and configuration files were created in the course of a master thesis 
   - User guide Kepler GL: https://docs.kepler.gl/docs/user-guides    
   - It is recommended to use Kepler GL for Jupyter in Jupyter Notebook, not in Jupyter Lab.
 - Data
-  - SimMobility input files
-  - SimMobility output files
+  - SimMobility input and output files specified in the notebooks
