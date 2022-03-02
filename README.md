@@ -10,3 +10,5 @@ Notebooks and configuration files were created in the course of a master thesis 
   - It is recommended to use Kepler GL for Jupyter in Jupyter Notebook, not in Jupyter Lab.
 - Data
   - SimMobility input and output files specified in the notebooks
+- Master thesis
+  - The thesis document is published on DTU's e-library and is accessible here: https://findit.dtu.dk/en/catalog/620e3b1c48c928727463e0a8
